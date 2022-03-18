@@ -30,5 +30,7 @@
       <p class="c12"><span class="c5">Excellence Award Aug. 2019-Present </span></p>
       <p class="c20"><span class="c8 c4">- Tuition Scholarship &nbsp;</span></p>
       <p class="c28"><span class="c5">Varsity Esports Scholarship Aug. 2019-Present &nbsp;</span><span class="c8 c4">- Room and Board Scholarship</span></p>
+      <script>
+      <button onclick="window.location.href='/page2'">Back to README</button>
    </body>
 </html>

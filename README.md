@@ -19,5 +19,6 @@
       <p class="c3 c4"><span class="c8"><br></span></p>
       <p class="c3 c4"><span class="c11"></span></p>
       <p class="c3 c4"><span class="c8"></span></p>
+      <p class="c1"><span class="c6 c4"><a class="c8" href="https://github.com/jakePaste/jakePaste.git">Back To Github Page</a></span></p>
    </body>
 </html>

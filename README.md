@@ -1,23 +1,24 @@
 <html>
    <head>
-      jakePaste's GitHub
+      <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+      <style type="text/css">@import url('https://themes.googleusercontent.com/fonts/css?kit=fpjTOVmNbO4Lz34iLyptLUXza5VhXqVC6o75Eld_V98');.lst-kix_list_1-3>li:before{content:"\0025cf  "}.lst-kix_list_1-4>li:before{content:"o  "}ul.lst-kix_list_1-0{list-style-type:none}.lst-kix_list_1-7>li:before{content:"o  "}.lst-kix_list_1-5>li:before{content:"\0025aa  "}.lst-kix_list_1-6>li:before{content:"\0025cf  "}ul.lst-kix_list_1-3{list-style-type:none}.lst-kix_list_1-0>li:before{content:"-  "}ul.lst-kix_list_1-4{list-style-type:none}.lst-kix_list_1-8>li:before{content:"\0025aa  "}ul.lst-kix_list_1-1{list-style-type:none}ul.lst-kix_list_1-2{list-style-type:none}ul.lst-kix_list_1-7{list-style-type:none}.lst-kix_list_1-1>li:before{content:"o  "}.lst-kix_list_1-2>li:before{content:"\0025aa  "}ul.lst-kix_list_1-8{list-style-type:none}ul.lst-kix_list_1-5{list-style-type:none}ul.lst-kix_list_1-6{list-style-type:none}ol{margin:0;padding:0}table td,table th{padding:0}.c0{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:"Calibri";font-style:normal}.c8{color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:16pt;font-family:"Calibri";font-style:normal}.c1{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:"Calibri";font-style:italic}.c11{color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:"Calibri";font-style:normal}.c10{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:"Calibri";font-style:italic}.c12{margin-left:72pt;padding-top:0pt;padding-bottom:8pt;line-height:1.0791666666666666;orphans:2;widows:2;text-align:left}.c3{padding-top:0pt;padding-bottom:8pt;line-height:1.0791666666666666;orphans:2;widows:2;text-align:center}.c9{text-decoration-skip-ink:none;font-size:14pt;-webkit-text-decoration-skip:none;color:#0563c1;text-decoration:underline}.c6{text-decoration-skip-ink:none;font-size:14pt;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline}.c7{background-color:#ffffff;max-width:468pt;padding:72pt 72pt 72pt 72pt}.c2{color:inherit;text-decoration:inherit}.c5{font-size:12pt;font-style:italic}.c4{height:11pt}.title{padding-top:24pt;color:#000000;font-weight:700;font-size:36pt;padding-bottom:6pt;font-family:"Calibri";line-height:1.0791666666666666;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:18pt;color:#666666;font-size:24pt;padding-bottom:4pt;font-family:"Georgia";line-height:1.0791666666666666;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}li{color:#000000;font-size:11pt;font-family:"Calibri"}p{margin:0;color:#000000;font-size:11pt;font-family:"Calibri"}h1{padding-top:24pt;color:#000000;font-weight:700;font-size:24pt;padding-bottom:6pt;font-family:"Calibri";line-height:1.0791666666666666;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:18pt;color:#000000;font-weight:700;font-size:18pt;padding-bottom:4pt;font-family:"Calibri";line-height:1.0791666666666666;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:14pt;color:#000000;font-weight:700;font-size:14pt;padding-bottom:4pt;font-family:"Calibri";line-height:1.0791666666666666;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:12pt;color:#000000;font-weight:700;font-size:12pt;padding-bottom:2pt;font-family:"Calibri";line-height:1.0791666666666666;page-break-after:avoid;orphans:2;widows:2;text-align:left}h5{padding-top:11pt;color:#000000;font-weight:700;font-size:11pt;padding-bottom:2pt;font-family:"Calibri";line-height:1.0791666666666666;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:10pt;color:#000000;font-weight:700;font-size:10pt;padding-bottom:2pt;font-family:"Calibri";line-height:1.0791666666666666;page-break-after:avoid;orphans:2;widows:2;text-align:left}</style>
    </head>
-   <body class="c11">
-      <p class="c0"><span class="c5">Welcome to jakePaste&rsquo;s GitHub!</span></p>
-      <p class="c0"><span class="c3">Here, you will be able to find:</span></p>
-      <p class="c0"><span class="c3">My Resume</span></p>
-      <p class="c0"><span class="c3">My Personal Bio</span></p>
-      <p class="c0"><span class="c3">Why I love the Atlanta Reign</span></p>
-      <p class="c0"><span class="c9"><a class="c6" href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DdQw4w9WgXcQ&amp;sa=D&amp;source=editors&amp;ust=1647638483198532&amp;usg=AOvVaw0LuSq9XTMJ7RYbaY6EiJ7L">A surprise!?</a></span></p>
-      <p class="c0"><span class="c3">My Favorite Video Games</span></p>
-      <p class="c0"><span class="c3">My Favorite Historical Topics</span></p>
-      <p class="c0 c4"><span class="c3"></span></p>
-      <p class="c0 c4"><span class="c3"></span></p>
-      <p class="c0 c4"><span class="c3"></span></p>
-      <p class="c0"><span class="c10">&ldquo;Now I am become Death, the destroyer of worlds&rdquo; </span></p>
-      <p class="c8"><span class="c1">&nbsp; &nbsp; </span><span class="c2">&nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c1">Robert Oppenheimer, referring to the Bhagavad Gita</span></p>
-      <p class="c0 c4"><span class="c5"><br></span></p>
-      <p class="c0 c4"><span class="c7"></span></p>
-      <p class="c0 c4"><span class="c5"></span></p>
+   <body class="c7">
+      <p class="c3"><span class="c8">Welcome to jakePaste&rsquo;s GitHub!</span></p>
+      <p class="c3"><span class="c0">Here, you will be able to find:</span></p>
+      <p class="c3"><span class="c6"><a class="c2" href="https://www.google.com/url?q=https://jakepaste.github.io/jakePaste/JakeUmstead5.html&amp;sa=D&amp;source=editors&amp;ust=1647648031090729&amp;usg=AOvVaw3-Masxbga03_75e4rJYsga">My Resume</a></span></p>
+      <p class="c3"><span class="c6"><a class="c2" href="https://www.google.com/url?q=https://jakepaste.github.io/jakePaste/clock.html&amp;sa=D&amp;source=editors&amp;ust=1647648031091110&amp;usg=AOvVaw1tJI7UdOUsm-c0IJ80Ykjw">Working Clock!</a></span></p>
+      <p class="c3"><span class="c6"><a class="c2" href="https://www.google.com/url?q=https://jakepaste.github.io/jakePaste/AtlantaReign.html&amp;sa=D&amp;source=editors&amp;ust=1647648031091399&amp;usg=AOvVaw1xo94zpTpsh5n9ZdaU8eT-">Why I love the Atlanta Reign</a></span></p>
+      <p class="c3"><span class="c9"><a class="c2" href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DdQw4w9WgXcQ&amp;sa=D&amp;source=editors&amp;ust=1647648031091621&amp;usg=AOvVaw133cbxpWcPIJkP-GXfxcbA">A surprise!?</a></span></p>
+      <p class="c3"><span class="c6"><a class="c2" href="https://www.google.com/url?q=https://jakepaste.github.io/jakePaste/bestvideogames&amp;sa=D&amp;source=editors&amp;ust=1647648031091889&amp;usg=AOvVaw1b5EITGNqTRr3c2VT-m4Fn">My Favorite Video Games</a></span></p>
+      <p class="c3"><span class="c6"><a class="c2" href="https://www.google.com/url?q=https://jakepaste.github.io/jakePaste/favquotes.html&amp;sa=D&amp;source=editors&amp;ust=1647648031092117&amp;usg=AOvVaw2ez49YbZGeFj4AU8rqy-NX">My Favorite Quotes</a></span></p>
+      <p class="c3 c4"><span class="c0"></span></p>
+      <p class="c3 c4"><span class="c0"></span></p>
+      <p class="c3 c4"><span class="c0"></span></p>
+      <p class="c3"><span class="c10">&ldquo;Now I am become Death, the destroyer of worlds&rdquo; </span></p>
+      <p class="c12"><span class="c1">&nbsp; &nbsp; </span><span class="c5">&nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c1">Robert Oppenheimer, referring to the Bhagavad Gita</span></p>
+      <p class="c3 c4"><span class="c8"><br></span></p>
+      <p class="c3 c4"><span class="c11"></span></p>
+      <p class="c3 c4"><span class="c8"></span></p>
    </body>
 </html>

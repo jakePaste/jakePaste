@@ -11,7 +11,7 @@
       <p class="c3"><span class="c9"><a class="c2" href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DdQw4w9WgXcQ&amp;sa=D&amp;source=editors&amp;ust=1647648031091621&amp;usg=AOvVaw133cbxpWcPIJkP-GXfxcbA">A surprise!?</a></span></p>
       <p class="c3"><span class="c6"><a class="c2" href="https://www.google.com/url?q=https://jakepaste.github.io/jakePaste/bestvideogames&amp;sa=D&amp;source=editors&amp;ust=1647648031091889&amp;usg=AOvVaw1b5EITGNqTRr3c2VT-m4Fn">My Favorite Video Games</a></span></p>
       <p class="c3"><span class="c6"><a class="c2" href="https://www.google.com/url?q=https://jakepaste.github.io/jakePaste/favquotes.html&amp;sa=D&amp;source=editors&amp;ust=1647648031092117&amp;usg=AOvVaw2ez49YbZGeFj4AU8rqy-NX">My Favorite Quotes</a></span></p>
-      <p class="c3"><span class="c6"><a class="c2" href="https://github.com/jakePaste/jakePaste/blob/aec67e6f3f2fed92120950b0efde49801e87bba3/OWLStats">Overwatch League Statistics</a></span></p>
+      <p class="c3"><span class="c6"><a class="c2" href="https://jakepaste.github.io/jakePaste/OWLStats">Overwatch League Statistics</a></span></p>
       <p class="c3 c4"><span class="c0"></span></p>
       <p class="c3 c4"><span class="c0"></span></p>
       <p class="c3 c4"><span class="c0"></span></p>
